@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TimerTask/static/css/main.40c9250e.css",
+    "main.js": "/TimerTask/static/js/main.7f082a62.js",
+    "static/js/453.d57d4cb8.chunk.js": "/TimerTask/static/js/453.d57d4cb8.chunk.js",
+    "index.html": "/TimerTask/index.html",
+    "main.40c9250e.css.map": "/TimerTask/static/css/main.40c9250e.css.map",
+    "main.7f082a62.js.map": "/TimerTask/static/js/main.7f082a62.js.map",
+    "453.d57d4cb8.chunk.js.map": "/TimerTask/static/js/453.d57d4cb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40c9250e.css",
+    "static/js/main.7f082a62.js"
+  ]
+}
